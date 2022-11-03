@@ -8,3 +8,4 @@ This is my first repo
 *italic*
 :pizza:
 :coffee:
+This is new line
